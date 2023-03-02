@@ -12,10 +12,10 @@ https://user-images.githubusercontent.com/72218203/222544230-65ff2603-d12b-4870-
 
 https://user-images.githubusercontent.com/72218203/222545324-48150c0e-aef9-47ce-a1b6-5ed91f5db8d1.mov
 
-### Walk through of all routes
+### Walk through of Products and category routes
 
 https://drive.google.com/file/d/1eA0Ior41u2K4qAib0UcBUs8iTMUHdt5W/view?usp=share_link 
 
-
+### Walk through of TAG route
 https://drive.google.com/file/d/1eA0Ior41u2K4qAib0UcBUs8iTMUHdt5W/view?usp=share_link 
 
