@@ -4,7 +4,8 @@ Internet retail, also known as e-commerce, is the largest sector of the electron
 
 My task is to build the back end for an e-commerce site by modifying starter code. I’ll configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
-##™ Get walk through 
+### Get walk through 
+
 https://user-images.githubusercontent.com/72218203/222544230-65ff2603-d12b-4870-86e1-6196667d2519.mov
 
 ### Walk through for single category, product and tag 
